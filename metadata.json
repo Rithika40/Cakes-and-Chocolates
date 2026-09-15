@@ -1,0 +1,7 @@
+{
+  "name": "Cakes & Chocolates Shop Management",
+  "description": "AI-powered bakery and confectionery operations management featuring project orders, task prioritization, progress analytics, and an intelligent kitchen assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
